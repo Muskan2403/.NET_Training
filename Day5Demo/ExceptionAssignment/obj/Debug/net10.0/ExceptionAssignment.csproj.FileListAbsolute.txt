@@ -1,0 +1,5 @@
+D:\.NET\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.AssemblyInfoInputs.cache
+D:\.NET\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.AssemblyInfo.cs
+D:\.NET\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.csproj.CoreCompileInputs.cache
+D:\.NET\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.sourcelink.json
