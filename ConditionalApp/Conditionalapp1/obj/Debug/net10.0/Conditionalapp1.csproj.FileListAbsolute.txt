@@ -1,0 +1,14 @@
+D:\.NET\ConditionalApp\Conditionalapp1\bin\Debug\net10.0\Conditionalapp1.exe
+D:\.NET\ConditionalApp\Conditionalapp1\bin\Debug\net10.0\Conditionalapp1.deps.json
+D:\.NET\ConditionalApp\Conditionalapp1\bin\Debug\net10.0\Conditionalapp1.runtimeconfig.json
+D:\.NET\ConditionalApp\Conditionalapp1\bin\Debug\net10.0\Conditionalapp1.dll
+D:\.NET\ConditionalApp\Conditionalapp1\bin\Debug\net10.0\Conditionalapp1.pdb
+D:\.NET\ConditionalApp\Conditionalapp1\obj\Debug\net10.0\Conditionalapp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\ConditionalApp\Conditionalapp1\obj\Debug\net10.0\Conditionalapp1.AssemblyInfoInputs.cache
+D:\.NET\ConditionalApp\Conditionalapp1\obj\Debug\net10.0\Conditionalapp1.AssemblyInfo.cs
+D:\.NET\ConditionalApp\Conditionalapp1\obj\Debug\net10.0\Conditionalapp1.csproj.CoreCompileInputs.cache
+D:\.NET\ConditionalApp\Conditionalapp1\obj\Debug\net10.0\Conditionalapp1.dll
+D:\.NET\ConditionalApp\Conditionalapp1\obj\Debug\net10.0\refint\Conditionalapp1.dll
+D:\.NET\ConditionalApp\Conditionalapp1\obj\Debug\net10.0\Conditionalapp1.pdb
+D:\.NET\ConditionalApp\Conditionalapp1\obj\Debug\net10.0\Conditionalapp1.genruntimeconfig.cache
+D:\.NET\ConditionalApp\Conditionalapp1\obj\Debug\net10.0\ref\Conditionalapp1.dll

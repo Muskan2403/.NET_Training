@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Day4OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3D61BE-9F34-4CDB-B0B6-DE5438E4646A}|Day4OOP\\Day4OOP.csproj|d:\\.net\\day4oop\\day4oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3D61BE-9F34-4CDB-B0B6-DE5438E4646A}|Day4OOP\\Day4OOP.csproj|solutionrelative:day4oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3D61BE-9F34-4CDB-B0B6-DE5438E4646A}|Day4OOP\\Day4OOP.csproj|d:\\.net\\day4oop\\day4oop\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3D61BE-9F34-4CDB-B0B6-DE5438E4646A}|Day4OOP\\Day4OOP.csproj|solutionrelative:day4oop\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3D61BE-9F34-4CDB-B0B6-DE5438E4646A}|Day4OOP\\Day4OOP.csproj|d:\\.net\\day4oop\\day4oop\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3D61BE-9F34-4CDB-B0B6-DE5438E4646A}|Day4OOP\\Day4OOP.csproj|solutionrelative:day4oop\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3D61BE-9F34-4CDB-B0B6-DE5438E4646A}|Day4OOP\\Day4OOP.csproj|d:\\.net\\day4oop\\day4oop\\classdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3D61BE-9F34-4CDB-B0B6-DE5438E4646A}|Day4OOP\\Day4OOP.csproj|solutionrelative:day4oop\\classdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3D61BE-9F34-4CDB-B0B6-DE5438E4646A}|Day4OOP\\Day4OOP.csproj|d:\\.net\\day4oop\\day4oop\\clerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3D61BE-9F34-4CDB-B0B6-DE5438E4646A}|Day4OOP\\Day4OOP.csproj|solutionrelative:day4oop\\clerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clerk.cs",
+              "DocumentMoniker": "D:\\.NET\\Day4OOP\\Day4OOP\\Clerk.cs",
+              "RelativeDocumentMoniker": "Day4OOP\\Clerk.cs",
+              "ToolTip": "D:\\.NET\\Day4OOP\\Day4OOP\\Clerk.cs",
+              "RelativeToolTip": "Day4OOP\\Clerk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:26:07.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\.NET\\Day4OOP\\Day4OOP\\Manager.cs",
+              "RelativeDocumentMoniker": "Day4OOP\\Manager.cs",
+              "ToolTip": "D:\\.NET\\Day4OOP\\Day4OOP\\Manager.cs",
+              "RelativeToolTip": "Day4OOP\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:24:55.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.NET\\Day4OOP\\Day4OOP\\Employee.cs",
+              "RelativeDocumentMoniker": "Day4OOP\\Employee.cs",
+              "ToolTip": "D:\\.NET\\Day4OOP\\Day4OOP\\Employee.cs",
+              "RelativeToolTip": "Day4OOP\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:22:58.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassDemo.cs",
+              "DocumentMoniker": "D:\\.NET\\Day4OOP\\Day4OOP\\ClassDemo.cs",
+              "RelativeDocumentMoniker": "Day4OOP\\ClassDemo.cs",
+              "ToolTip": "D:\\.NET\\Day4OOP\\Day4OOP\\ClassDemo.cs",
+              "RelativeToolTip": "Day4OOP\\ClassDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:18:34.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\Day4OOP\\Day4OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Day4OOP\\Program.cs",
+              "ToolTip": "D:\\.NET\\Day4OOP\\Day4OOP\\Program.cs",
+              "RelativeToolTip": "Day4OOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:18:12.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

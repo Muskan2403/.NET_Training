@@ -1,0 +1,14 @@
+D:\.NET\StudentMgmtSystem\obj\Debug\net10.0\StudentMgmtSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\StudentMgmtSystem\obj\Debug\net10.0\StudentMgmtSystem.AssemblyInfoInputs.cache
+D:\.NET\StudentMgmtSystem\obj\Debug\net10.0\StudentMgmtSystem.AssemblyInfo.cs
+D:\.NET\StudentMgmtSystem\obj\Debug\net10.0\StudentMgmtSystem.csproj.CoreCompileInputs.cache
+D:\.NET\StudentMgmtSystem\bin\Debug\net10.0\StudentMgmtSystem.exe
+D:\.NET\StudentMgmtSystem\bin\Debug\net10.0\StudentMgmtSystem.deps.json
+D:\.NET\StudentMgmtSystem\bin\Debug\net10.0\StudentMgmtSystem.runtimeconfig.json
+D:\.NET\StudentMgmtSystem\bin\Debug\net10.0\StudentMgmtSystem.dll
+D:\.NET\StudentMgmtSystem\bin\Debug\net10.0\StudentMgmtSystem.pdb
+D:\.NET\StudentMgmtSystem\obj\Debug\net10.0\StudentMgmtSystem.dll
+D:\.NET\StudentMgmtSystem\obj\Debug\net10.0\refint\StudentMgmtSystem.dll
+D:\.NET\StudentMgmtSystem\obj\Debug\net10.0\StudentMgmtSystem.pdb
+D:\.NET\StudentMgmtSystem\obj\Debug\net10.0\StudentMgmtSystem.genruntimeconfig.cache
+D:\.NET\StudentMgmtSystem\obj\Debug\net10.0\ref\StudentMgmtSystem.dll
