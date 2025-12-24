@@ -10,7 +10,10 @@ public class Book
     DateTime dueDate;
     DateTime returnedDate;
 
-    public Book() { }
+    public Book()
+    {
+        
+    }
 
     public Book(string title, string author, int numPages, DateTime dueDate, DateTime returnedDate)
     {

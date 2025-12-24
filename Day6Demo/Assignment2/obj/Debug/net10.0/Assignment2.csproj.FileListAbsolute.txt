@@ -1,0 +1,15 @@
+D:\.NET\Day6Demo\Assignment2\bin\Debug\net10.0\Assignment2.exe
+D:\.NET\Day6Demo\Assignment2\bin\Debug\net10.0\Assignment2.deps.json
+D:\.NET\Day6Demo\Assignment2\bin\Debug\net10.0\Assignment2.runtimeconfig.json
+D:\.NET\Day6Demo\Assignment2\bin\Debug\net10.0\Assignment2.dll
+D:\.NET\Day6Demo\Assignment2\bin\Debug\net10.0\Assignment2.pdb
+D:\.NET\Day6Demo\Assignment2\obj\Debug\net10.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day6Demo\Assignment2\obj\Debug\net10.0\Assignment2.AssemblyInfoInputs.cache
+D:\.NET\Day6Demo\Assignment2\obj\Debug\net10.0\Assignment2.AssemblyInfo.cs
+D:\.NET\Day6Demo\Assignment2\obj\Debug\net10.0\Assignment2.csproj.CoreCompileInputs.cache
+D:\.NET\Day6Demo\Assignment2\obj\Debug\net10.0\Assignment2.sourcelink.json
+D:\.NET\Day6Demo\Assignment2\obj\Debug\net10.0\Assignment2.dll
+D:\.NET\Day6Demo\Assignment2\obj\Debug\net10.0\refint\Assignment2.dll
+D:\.NET\Day6Demo\Assignment2\obj\Debug\net10.0\Assignment2.pdb
+D:\.NET\Day6Demo\Assignment2\obj\Debug\net10.0\Assignment2.genruntimeconfig.cache
+D:\.NET\Day6Demo\Assignment2\obj\Debug\net10.0\ref\Assignment2.dll
