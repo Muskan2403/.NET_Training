@@ -5,7 +5,7 @@ using Assignment4;
 
 class Program
 {
-    public static Candy CalculateDiscountedPrice(Candy candy)
+    public Candy CalculateDiscountedPrice(Candy candy)
     {
         switch (candy.Flavour)
         {
@@ -24,6 +24,11 @@ class Program
                     candy.DiscountPercentage = 5;
                     break;
                 }
+            default:
+                {
+                    candy.DiscountPercentage = 0;
+                    break;
+                }
             
         }
         candy.TotalPrice = candy.Quantity * candy.PricePerPiece;
@@ -34,30 +39,32 @@ class Program
     }
     public static void Main(string[] args)
     {
-        Candy candy1 = new Candy();
+        Candy candy = new Candy();
 
         Console.WriteLine("Enter Candy Flavour:");
-        candy1.Flavour = Console.ReadLine();
+        candy.Flavour = Console.ReadLine();
 
-        if(candy1.ValidateCandyFlavour()){
-            Console.WriteLine("Enter the  Quantity:");
-            candy1.Quantity = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter the  Quantity:");
+        candy.Quantity = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Enter Price per piece:");
-            candy1.PricePerPiece = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter Price per piece:");
+        candy.PricePerPiece = Convert.ToInt32(Console.ReadLine());
 
-            candy1 = CalculateDiscountedPrice(candy1);
+        if(candy.ValidateCandyFlavour()){
+            
 
-            Console.WriteLine($"Flavour: {candy1.Flavour}");
-            Console.WriteLine($"Quantity: {candy1.Quantity}");
-            Console.WriteLine($"Price per piece: {candy1.PricePerPiece}");
-            Console.WriteLine($"Total Price: {candy1.TotalPrice}");
-            Console.WriteLine($"Discount: {candy1.Discount}");
+            Program program = new Program();
+            candy = program.CalculateDiscountedPrice(candy);
+
+            Console.WriteLine($"Flavour: {candy.Flavour}");
+            Console.WriteLine($"Quantity: {candy.Quantity}");
+            Console.WriteLine($"Price per piece: {candy.PricePerPiece}");
+            Console.WriteLine($"Total Price: {candy.TotalPrice}");
+            Console.WriteLine($"Discount: {candy.Discount}");
         }
         else
         {
             Console.WriteLine("Invalid Flavour");
-            
         }
     }
     

@@ -1,0 +1,15 @@
+D:\.NET\Day6Demo\Assignment1\obj\Debug\net10.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day6Demo\Assignment1\obj\Debug\net10.0\Assignment1.AssemblyInfoInputs.cache
+D:\.NET\Day6Demo\Assignment1\obj\Debug\net10.0\Assignment1.AssemblyInfo.cs
+D:\.NET\Day6Demo\Assignment1\obj\Debug\net10.0\Assignment1.csproj.CoreCompileInputs.cache
+D:\.NET\Day6Demo\Assignment1\obj\Debug\net10.0\Assignment1.sourcelink.json
+D:\.NET\Day6Demo\Assignment1\bin\Debug\net10.0\Assignment1.exe
+D:\.NET\Day6Demo\Assignment1\bin\Debug\net10.0\Assignment1.deps.json
+D:\.NET\Day6Demo\Assignment1\bin\Debug\net10.0\Assignment1.runtimeconfig.json
+D:\.NET\Day6Demo\Assignment1\bin\Debug\net10.0\Assignment1.dll
+D:\.NET\Day6Demo\Assignment1\bin\Debug\net10.0\Assignment1.pdb
+D:\.NET\Day6Demo\Assignment1\obj\Debug\net10.0\Assignment1.dll
+D:\.NET\Day6Demo\Assignment1\obj\Debug\net10.0\refint\Assignment1.dll
+D:\.NET\Day6Demo\Assignment1\obj\Debug\net10.0\Assignment1.pdb
+D:\.NET\Day6Demo\Assignment1\obj\Debug\net10.0\Assignment1.genruntimeconfig.cache
+D:\.NET\Day6Demo\Assignment1\obj\Debug\net10.0\ref\Assignment1.dll
