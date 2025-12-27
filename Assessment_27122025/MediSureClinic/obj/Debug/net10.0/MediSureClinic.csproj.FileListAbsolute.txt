@@ -1,0 +1,15 @@
+D:\.NET\Assessment_27122025\MediSureClinic\bin\Debug\net10.0\MediSureClinic.exe
+D:\.NET\Assessment_27122025\MediSureClinic\bin\Debug\net10.0\MediSureClinic.deps.json
+D:\.NET\Assessment_27122025\MediSureClinic\bin\Debug\net10.0\MediSureClinic.runtimeconfig.json
+D:\.NET\Assessment_27122025\MediSureClinic\bin\Debug\net10.0\MediSureClinic.dll
+D:\.NET\Assessment_27122025\MediSureClinic\bin\Debug\net10.0\MediSureClinic.pdb
+D:\.NET\Assessment_27122025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Assessment_27122025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.AssemblyInfoInputs.cache
+D:\.NET\Assessment_27122025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.AssemblyInfo.cs
+D:\.NET\Assessment_27122025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.csproj.CoreCompileInputs.cache
+D:\.NET\Assessment_27122025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.sourcelink.json
+D:\.NET\Assessment_27122025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.dll
+D:\.NET\Assessment_27122025\MediSureClinic\obj\Debug\net10.0\refint\MediSureClinic.dll
+D:\.NET\Assessment_27122025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.pdb
+D:\.NET\Assessment_27122025\MediSureClinic\obj\Debug\net10.0\MediSureClinic.genruntimeconfig.cache
+D:\.NET\Assessment_27122025\MediSureClinic\obj\Debug\net10.0\ref\MediSureClinic.dll

@@ -1,0 +1,15 @@
+D:\.NET\Assessment_27122025\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.exe
+D:\.NET\Assessment_27122025\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.deps.json
+D:\.NET\Assessment_27122025\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.runtimeconfig.json
+D:\.NET\Assessment_27122025\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.dll
+D:\.NET\Assessment_27122025\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.pdb
+D:\.NET\Assessment_27122025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Assessment_27122025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.AssemblyInfoInputs.cache
+D:\.NET\Assessment_27122025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.AssemblyInfo.cs
+D:\.NET\Assessment_27122025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.csproj.CoreCompileInputs.cache
+D:\.NET\Assessment_27122025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.sourcelink.json
+D:\.NET\Assessment_27122025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.dll
+D:\.NET\Assessment_27122025\QuickMartTraders\obj\Debug\net10.0\refint\QuickMartTraders.dll
+D:\.NET\Assessment_27122025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.pdb
+D:\.NET\Assessment_27122025\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.genruntimeconfig.cache
+D:\.NET\Assessment_27122025\QuickMartTraders\obj\Debug\net10.0\ref\QuickMartTraders.dll
