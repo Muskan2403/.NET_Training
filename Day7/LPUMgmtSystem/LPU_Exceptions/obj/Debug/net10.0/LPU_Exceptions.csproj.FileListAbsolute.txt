@@ -1,0 +1,12 @@
+D:\.NET\Day7\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day7\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.AssemblyInfoInputs.cache
+D:\.NET\Day7\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.AssemblyInfo.cs
+D:\.NET\Day7\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.csproj.CoreCompileInputs.cache
+D:\.NET\Day7\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.sourcelink.json
+D:\.NET\Day7\LPUMgmtSystem\LPU_Exceptions\bin\Debug\net10.0\LPU_Exceptions.deps.json
+D:\.NET\Day7\LPUMgmtSystem\LPU_Exceptions\bin\Debug\net10.0\LPU_Exceptions.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_Exceptions\bin\Debug\net10.0\LPU_Exceptions.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\refint\LPU_Exceptions.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\LPU_Exceptions.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_Exceptions\obj\Debug\net10.0\ref\LPU_Exceptions.dll
