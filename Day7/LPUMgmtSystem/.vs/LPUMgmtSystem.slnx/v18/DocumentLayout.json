@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\.NET\\Day7\\LPUMgmtSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5352B91A-6E04-90B1-D9FC-1ADD574DD2BF}|LPU_BL\\LPU_BL.csproj|d:\\.net\\day7\\lpumgmtsystem\\lpu_bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5352B91A-6E04-90B1-D9FC-1ADD574DD2BF}|LPU_BL\\LPU_BL.csproj|solutionrelative:lpu_bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DAB4FF3-6B18-9396-C8C7-E684C346A639}|LPU_UI\\LPU_UI.csproj|d:\\.net\\day7\\lpumgmtsystem\\lpu_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAB4FF3-6B18-9396-C8C7-E684C346A639}|LPU_UI\\LPU_UI.csproj|solutionrelative:lpu_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentBL.cs",
-              "DocumentMoniker": "D:\\.NET\\Day7\\LPUMgmtSystem\\LPU_BL\\StudentBL.cs",
-              "RelativeDocumentMoniker": "LPU_BL\\StudentBL.cs",
-              "ToolTip": "D:\\.NET\\Day7\\LPUMgmtSystem\\LPU_BL\\StudentBL.cs",
-              "RelativeToolTip": "LPU_BL\\StudentBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\Day7\\LPUMgmtSystem\\LPU_UI\\Program.cs",
+              "RelativeDocumentMoniker": "LPU_UI\\Program.cs",
+              "ToolTip": "D:\\.NET\\Day7\\LPUMgmtSystem\\LPU_UI\\Program.cs",
+              "RelativeToolTip": "LPU_UI\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T10:18:41.06Z",
+              "WhenOpened": "2025-12-30T07:22:35.124Z",
               "EditorCaption": ""
             }
           ]

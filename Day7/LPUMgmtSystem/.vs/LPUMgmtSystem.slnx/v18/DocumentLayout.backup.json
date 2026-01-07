@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\.NET\\Day7\\LPUMgmtSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18317590-9BAD-F9A4-5DDE-7BA01CBAC2FF}|LPU_DAL\\LPU_DAL.csproj|d:\\.net\\day7\\lpumgmtsystem\\lpu_dal\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18317590-9BAD-F9A4-5DDE-7BA01CBAC2FF}|LPU_DAL\\LPU_DAL.csproj|solutionrelative:lpu_dal\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DAB4FF3-6B18-9396-C8C7-E684C346A639}|LPU_UI\\LPU_UI.csproj|d:\\.net\\day7\\lpumgmtsystem\\lpu_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAB4FF3-6B18-9396-C8C7-E684C346A639}|LPU_UI\\LPU_UI.csproj|solutionrelative:lpu_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentDAO.cs",
-              "DocumentMoniker": "D:\\.NET\\Day7\\LPUMgmtSystem\\LPU_DAL\\StudentDAO.cs",
-              "RelativeDocumentMoniker": "LPU_DAL\\StudentDAO.cs",
-              "ToolTip": "D:\\.NET\\Day7\\LPUMgmtSystem\\LPU_DAL\\StudentDAO.cs",
-              "RelativeToolTip": "LPU_DAL\\StudentDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\Day7\\LPUMgmtSystem\\LPU_UI\\Program.cs",
+              "RelativeDocumentMoniker": "LPU_UI\\Program.cs",
+              "ToolTip": "D:\\.NET\\Day7\\LPUMgmtSystem\\LPU_UI\\Program.cs",
+              "RelativeToolTip": "LPU_UI\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T09:38:15.447Z",
+              "WhenOpened": "2025-12-30T07:22:35.124Z",
               "EditorCaption": ""
             }
           ]

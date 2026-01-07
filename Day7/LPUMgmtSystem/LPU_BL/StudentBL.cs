@@ -22,7 +22,7 @@ namespace LPU_BL
 
         public bool EnrollStudent(Student sObj)
         {
-            throw new NotImplementedException();
+            return sDao.EnrollStudent(sObj);
         }
 
         public Student SearchStudentByID(int rollNo)
@@ -43,10 +43,15 @@ namespace LPU_BL
 
         public List<Student> SearchStudentByName(string name)
         {
-            throw new NotImplementedException();
+            return sDao.SearchStudentByName(name);
         }
 
         public bool UpdateStudentDetails(Student sObj)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool UpdateStudentDetails(int id, Student sObj)
         {
             throw new NotImplementedException();
         }

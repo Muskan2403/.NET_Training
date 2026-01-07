@@ -1,0 +1,15 @@
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\bin\Debug\net10.0\DigitalPetty.exe
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\bin\Debug\net10.0\DigitalPetty.deps.json
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\bin\Debug\net10.0\DigitalPetty.runtimeconfig.json
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\bin\Debug\net10.0\DigitalPetty.dll
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\bin\Debug\net10.0\DigitalPetty.pdb
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\obj\Debug\net10.0\DigitalPetty.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\obj\Debug\net10.0\DigitalPetty.AssemblyInfoInputs.cache
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\obj\Debug\net10.0\DigitalPetty.AssemblyInfo.cs
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\obj\Debug\net10.0\DigitalPetty.csproj.CoreCompileInputs.cache
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\obj\Debug\net10.0\DigitalPetty.sourcelink.json
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\obj\Debug\net10.0\DigitalPetty.dll
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\obj\Debug\net10.0\refint\DigitalPetty.dll
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\obj\Debug\net10.0\DigitalPetty.pdb
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\obj\Debug\net10.0\DigitalPetty.genruntimeconfig.cache
+D:\.NET\Assessment_07-01-2026\DigitalPettyUI\obj\Debug\net10.0\ref\DigitalPetty.dll

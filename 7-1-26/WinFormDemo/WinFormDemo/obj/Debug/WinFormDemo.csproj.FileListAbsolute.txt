@@ -1,0 +1,10 @@
+D:\.NET\7-1-26\WinFormDemo\WinFormDemo\bin\Debug\WinFormDemo.exe.config
+D:\.NET\7-1-26\WinFormDemo\WinFormDemo\bin\Debug\WinFormDemo.exe
+D:\.NET\7-1-26\WinFormDemo\WinFormDemo\bin\Debug\WinFormDemo.pdb
+D:\.NET\7-1-26\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.csproj.AssemblyReference.cache
+D:\.NET\7-1-26\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.Form1.resources
+D:\.NET\7-1-26\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.Properties.Resources.resources
+D:\.NET\7-1-26\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.csproj.GenerateResource.cache
+D:\.NET\7-1-26\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.csproj.CoreCompileInputs.cache
+D:\.NET\7-1-26\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.exe
+D:\.NET\7-1-26\WinFormDemo\WinFormDemo\obj\Debug\WinFormDemo.pdb

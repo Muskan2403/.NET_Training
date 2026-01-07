@@ -13,3 +13,15 @@ D:\.NET\Day7\LPUMgmtSystem\LPU_UI\obj\Debug\net10.0\refint\LPU_UI.dll
 D:\.NET\Day7\LPUMgmtSystem\LPU_UI\obj\Debug\net10.0\LPU_UI.pdb
 D:\.NET\Day7\LPUMgmtSystem\LPU_UI\obj\Debug\net10.0\LPU_UI.genruntimeconfig.cache
 D:\.NET\Day7\LPUMgmtSystem\LPU_UI\obj\Debug\net10.0\ref\LPU_UI.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_UI\bin\Debug\net10.0\LPU_BL.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_UI\bin\Debug\net10.0\LPU_Common.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_UI\bin\Debug\net10.0\LPU_DAL.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_UI\bin\Debug\net10.0\LPU_Entity.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_UI\bin\Debug\net10.0\LPU_Exceptions.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_UI\bin\Debug\net10.0\LPU_BL.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_UI\bin\Debug\net10.0\LPU_Entity.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_UI\bin\Debug\net10.0\LPU_Exceptions.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_UI\bin\Debug\net10.0\LPU_Common.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_UI\bin\Debug\net10.0\LPU_DAL.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_UI\obj\Debug\net10.0\LPU_UI.csproj.AssemblyReference.cache
+D:\.NET\Day7\LPUMgmtSystem\LPU_UI\obj\Debug\net10.0\LPU_UI.csproj.Up2Date

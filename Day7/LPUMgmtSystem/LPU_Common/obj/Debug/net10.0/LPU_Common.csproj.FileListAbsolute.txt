@@ -1,0 +1,16 @@
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\bin\Debug\net10.0\LPU_Common.deps.json
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\bin\Debug\net10.0\LPU_Common.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\bin\Debug\net10.0\LPU_Common.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\bin\Debug\net10.0\LPU_Entity.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\bin\Debug\net10.0\LPU_Entity.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.csproj.AssemblyReference.cache
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.AssemblyInfoInputs.cache
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.AssemblyInfo.cs
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.csproj.CoreCompileInputs.cache
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.sourcelink.json
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.csproj.Up2Date
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\obj\Debug\net10.0\refint\LPU_Common.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\obj\Debug\net10.0\LPU_Common.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_Common\obj\Debug\net10.0\ref\LPU_Common.dll

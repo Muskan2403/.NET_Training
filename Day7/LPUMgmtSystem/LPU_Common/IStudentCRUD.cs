@@ -8,6 +8,6 @@ namespace LPU_Common
         public List<Student> SearchStudentByName(string name);
         public bool EnrollStudent(Student sObj);
         public bool DropStudentDetails(int id);
-        public bool UpdateStudentDetails(Student sObj);
+        public bool UpdateStudentDetails(int id, Student sObj);
     }
 }

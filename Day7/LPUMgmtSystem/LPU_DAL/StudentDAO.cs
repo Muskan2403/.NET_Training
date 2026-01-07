@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using LPU_Common;
 using LPU_Entity;
-using LPU_Exceptions
+using LPU_Exceptions;
 
 namespace LPU_DAL
 {
@@ -12,8 +12,17 @@ namespace LPU_DAL
         static List<Student> studentList = null;
         public StudentDAO()
         {
-            studentList = {
-
+            studentList = new List<Student>{
+                new Student(){StudentID = 101, Name="Alok",Course = CourseType.CSE,Address="Mumbai"},
+                new Student(){StudentID = 102, Name="Riya",Course = CourseType.Mechanical,Address="Pune"},
+                new Student(){StudentID = 103, Name="Priyam",Course = CourseType.CSE,Address="Kota"},
+                new Student(){StudentID = 104, Name="Muskan",Course = CourseType.CSE,Address="Mumbai"},
+                new Student(){StudentID = 105, Name="Priya",Course = CourseType.CSE,Address="Chennai"},
+                new Student(){StudentID = 106, Name="Alok",Course = CourseType.CSE,Address="Kolkata"},
+                new Student(){StudentID = 107, Name="Riya",Course = CourseType.Mechanical,Address="Jaipur"},
+                new Student(){StudentID = 108, Name="Priyam",Course = CourseType.CSE,Address="Surat"},
+                new Student(){StudentID = 109, Name="Muskan",Course = CourseType.CSE,Address="Sikar"},
+                new Student(){StudentID = 110, Name="Priya",Course = CourseType.CSE,Address="Delhi"},
             };
         }
 
@@ -58,6 +67,11 @@ namespace LPU_DAL
         }
 
         public bool UpdateStudentDetails(Student sObj)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool UpdateStudentDetails(int id, Student sObj)
         {
             throw new NotImplementedException();
         }

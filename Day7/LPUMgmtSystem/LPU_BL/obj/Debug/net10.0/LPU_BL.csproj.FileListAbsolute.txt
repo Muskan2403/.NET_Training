@@ -10,3 +10,13 @@ D:\.NET\Day7\LPUMgmtSystem\LPU_BL\obj\Debug\net10.0\LPU_BL.dll
 D:\.NET\Day7\LPUMgmtSystem\LPU_BL\obj\Debug\net10.0\refint\LPU_BL.dll
 D:\.NET\Day7\LPUMgmtSystem\LPU_BL\obj\Debug\net10.0\LPU_BL.pdb
 D:\.NET\Day7\LPUMgmtSystem\LPU_BL\obj\Debug\net10.0\ref\LPU_BL.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_BL\obj\Debug\net10.0\LPU_BL.csproj.AssemblyReference.cache
+D:\.NET\Day7\LPUMgmtSystem\LPU_BL\bin\Debug\net10.0\LPU_Common.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_BL\bin\Debug\net10.0\LPU_DAL.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_BL\bin\Debug\net10.0\LPU_Entity.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_BL\bin\Debug\net10.0\LPU_Exceptions.dll
+D:\.NET\Day7\LPUMgmtSystem\LPU_BL\bin\Debug\net10.0\LPU_Common.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_BL\bin\Debug\net10.0\LPU_DAL.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_BL\bin\Debug\net10.0\LPU_Entity.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_BL\bin\Debug\net10.0\LPU_Exceptions.pdb
+D:\.NET\Day7\LPUMgmtSystem\LPU_BL\obj\Debug\net10.0\LPU_BL.csproj.Up2Date
