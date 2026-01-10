@@ -1,0 +1,10 @@
+D:\.NET\10-1-26\WinSerialDemo\WinSerialDemo\bin\Debug\WinSerialDemo.exe.config
+D:\.NET\10-1-26\WinSerialDemo\WinSerialDemo\bin\Debug\WinSerialDemo.exe
+D:\.NET\10-1-26\WinSerialDemo\WinSerialDemo\bin\Debug\WinSerialDemo.pdb
+D:\.NET\10-1-26\WinSerialDemo\WinSerialDemo\obj\Debug\WinSerialDemo.csproj.AssemblyReference.cache
+D:\.NET\10-1-26\WinSerialDemo\WinSerialDemo\obj\Debug\WinSerialDemo.Form1.resources
+D:\.NET\10-1-26\WinSerialDemo\WinSerialDemo\obj\Debug\WinSerialDemo.Properties.Resources.resources
+D:\.NET\10-1-26\WinSerialDemo\WinSerialDemo\obj\Debug\WinSerialDemo.csproj.GenerateResource.cache
+D:\.NET\10-1-26\WinSerialDemo\WinSerialDemo\obj\Debug\WinSerialDemo.csproj.CoreCompileInputs.cache
+D:\.NET\10-1-26\WinSerialDemo\WinSerialDemo\obj\Debug\WinSerialDemo.exe
+D:\.NET\10-1-26\WinSerialDemo\WinSerialDemo\obj\Debug\WinSerialDemo.pdb

@@ -12,3 +12,4 @@ d:\.NET\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\refint\Day2DemoConsole.dll
 d:\.NET\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.pdb
 d:\.NET\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.genruntimeconfig.cache
 d:\.NET\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\ref\Day2DemoConsole.dll
+D:\.NET\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.sourcelink.json

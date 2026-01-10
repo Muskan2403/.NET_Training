@@ -1,0 +1,22 @@
+D:\k_prac_shoab_lec\DelegatesAndEvents\events_demo\events_demo\obj\Debug\ResolveAssemblyReference.cache
+D:\k_prac_shoab_lec\DelegatesAndEvents\events_demo\events_demo\bin\Debug\events_demo.exe
+D:\k_prac_shoab_lec\DelegatesAndEvents\events_demo\events_demo\bin\Debug\events_demo.pdb
+D:\k_prac_shoab_lec\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.exe
+D:\k_prac_shoab_lec\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.pdb
+D:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.exe
+D:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.pdb
+E:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.exe
+E:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.pdb
+E:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\events_demo\bin\Debug\events_demo.exe
+E:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\events_demo\bin\Debug\events_demo.pdb
+E:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.Form1.resources
+E:\Pankaj Laptop BkUp\Pankaj Data\CSharp Demos\CSharpDemosForLecture\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.csproj.GenerateResource.Cache
+D:\.NET\9-1-26\DelegatesAndEvents\events_demo\events_demo\bin\Debug\events_demo.exe.config
+D:\.NET\9-1-26\DelegatesAndEvents\events_demo\events_demo\bin\Debug\events_demo.exe
+D:\.NET\9-1-26\DelegatesAndEvents\events_demo\events_demo\bin\Debug\events_demo.pdb
+D:\.NET\9-1-26\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.csproj.AssemblyReference.cache
+D:\.NET\9-1-26\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.Form1.resources
+D:\.NET\9-1-26\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.csproj.GenerateResource.cache
+D:\.NET\9-1-26\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.csproj.CoreCompileInputs.cache
+D:\.NET\9-1-26\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.exe
+D:\.NET\9-1-26\DelegatesAndEvents\events_demo\events_demo\obj\Debug\events_demo.pdb

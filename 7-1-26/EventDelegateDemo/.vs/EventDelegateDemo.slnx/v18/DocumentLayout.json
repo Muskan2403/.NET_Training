@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\.NET\\7-1-26\\EventDelegateDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D1E0183-9871-4895-8D0E-EAEC2323017D}|EventDelegateDemo\\EventDelegateDemo.csproj|d:\\.net\\7-1-26\\eventdelegatedemo\\eventdelegatedemo\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D1E0183-9871-4895-8D0E-EAEC2323017D}|EventDelegateDemo\\EventDelegateDemo.csproj|solutionrelative:eventdelegatedemo\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46F493E9-69EC-3AF6-441E-F89E9084BEAF}|EventDelegateDemo\\EventDelegateDemo.csproj|d:\\.net\\7-1-26\\eventdelegatedemo\\eventdelegatedemo\\eventdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F493E9-69EC-3AF6-441E-F89E9084BEAF}|EventDelegateDemo\\EventDelegateDemo.csproj|solutionrelative:eventdelegatedemo\\eventdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D1E0183-9871-4895-8D0E-EAEC2323017D}|EventDelegateDemo\\EventDelegateDemo.csproj|d:\\.net\\7-1-26\\eventdelegatedemo\\eventdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D1E0183-9871-4895-8D0E-EAEC2323017D}|EventDelegateDemo\\EventDelegateDemo.csproj|solutionrelative:eventdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46F493E9-69EC-3AF6-441E-F89E9084BEAF}|EventDelegateDemo\\EventDelegateDemo.csproj|d:\\.net\\7-1-26\\eventdelegatedemo\\eventdelegatedemo\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F493E9-69EC-3AF6-441E-F89E9084BEAF}|EventDelegateDemo\\EventDelegateDemo.csproj|solutionrelative:eventdelegatedemo\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F493E9-69EC-3AF6-441E-F89E9084BEAF}|EventDelegateDemo\\EventDelegateDemo.csproj|d:\\.net\\7-1-26\\eventdelegatedemo\\eventdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F493E9-69EC-3AF6-441E-F89E9084BEAF}|EventDelegateDemo\\EventDelegateDemo.csproj|solutionrelative:eventdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EventDemo.cs",
+              "DocumentMoniker": "D:\\.NET\\7-1-26\\EventDelegateDemo\\EventDelegateDemo\\EventDemo.cs",
+              "RelativeDocumentMoniker": "EventDelegateDemo\\EventDemo.cs",
+              "ToolTip": "D:\\.NET\\7-1-26\\EventDelegateDemo\\EventDelegateDemo\\EventDemo.cs",
+              "RelativeToolTip": "EventDelegateDemo\\EventDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:20:49.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DelegateDemo.cs",
               "DocumentMoniker": "D:\\.NET\\7-1-26\\EventDelegateDemo\\EventDelegateDemo\\DelegateDemo.cs",
               "RelativeDocumentMoniker": "EventDelegateDemo\\DelegateDemo.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "EventDelegateDemo\\DelegateDemo.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAcwDYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T06:57:01.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T06:57:01.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET\\7-1-26\\EventDelegateDemo\\EventDelegateDemo\\Program.cs",
               "RelativeDocumentMoniker": "EventDelegateDemo\\Program.cs",
@@ -47,8 +63,7 @@
               "RelativeToolTip": "EventDelegateDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T06:56:39.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T06:56:39.069Z"
             }
           ]
         }

@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\10-1-26\\WinSerialDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{464FB879-4E2F-4268-848A-080D507143A6}|WinSerialDemo\\WinSerialDemo.csproj|d:\\.net\\10-1-26\\winserialdemo\\winserialdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464FB879-4E2F-4268-848A-080D507143A6}|WinSerialDemo\\WinSerialDemo.csproj|solutionrelative:winserialdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464FB879-4E2F-4268-848A-080D507143A6}|WinSerialDemo\\WinSerialDemo.csproj|D:\\.NET\\10-1-26\\WinSerialDemo\\winserialdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{464FB879-4E2F-4268-848A-080D507143A6}|WinSerialDemo\\WinSerialDemo.csproj|solutionrelative:winserialdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464FB879-4E2F-4268-848A-080D507143A6}|WinSerialDemo\\WinSerialDemo.csproj|D:\\.NET\\10-1-26\\WinSerialDemo\\winserialdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464FB879-4E2F-4268-848A-080D507143A6}|WinSerialDemo\\WinSerialDemo.csproj|solutionrelative:winserialdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464FB879-4E2F-4268-848A-080D507143A6}|WinSerialDemo\\WinSerialDemo.csproj|D:\\.NET\\10-1-26\\WinSerialDemo\\winserialdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464FB879-4E2F-4268-848A-080D507143A6}|WinSerialDemo\\WinSerialDemo.csproj|solutionrelative:winserialdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\.NET\\10-1-26\\WinSerialDemo\\WinSerialDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "WinSerialDemo\\Form1.cs",
+              "ToolTip": "D:\\.NET\\10-1-26\\WinSerialDemo\\WinSerialDemo\\Form1.cs",
+              "RelativeToolTip": "WinSerialDemo\\Form1.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowE8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T06:29:18.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.NET\\10-1-26\\WinSerialDemo\\WinSerialDemo\\Employee.cs",
+              "RelativeDocumentMoniker": "WinSerialDemo\\Employee.cs",
+              "ToolTip": "D:\\.NET\\10-1-26\\WinSerialDemo\\WinSerialDemo\\Employee.cs",
+              "RelativeToolTip": "WinSerialDemo\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T06:13:07.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\10-1-26\\WinSerialDemo\\WinSerialDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WinSerialDemo\\Program.cs",
+              "ToolTip": "D:\\.NET\\10-1-26\\WinSerialDemo\\WinSerialDemo\\Program.cs",
+              "RelativeToolTip": "WinSerialDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T05:52:46.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\10-1-26\\WinSerialDemo\\WinSerialDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "WinSerialDemo\\Form1.cs",
+              "ToolTip": "D:\\.NET\\10-1-26\\WinSerialDemo\\WinSerialDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "WinSerialDemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T05:52:36.091Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

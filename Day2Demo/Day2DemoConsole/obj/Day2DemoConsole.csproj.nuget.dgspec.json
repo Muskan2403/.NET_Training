@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\.NET\\Day2Demo\\Day2DemoConsole\\Day2DemoConsole.csproj": {}
+    "D:\\.NET\\Day2Demo\\Day2DemoConsole\\Day2DemoConsole.csproj": {}
   },
   "projects": {
-    "d:\\.NET\\Day2Demo\\Day2DemoConsole\\Day2DemoConsole.csproj": {
+    "D:\\.NET\\Day2Demo\\Day2DemoConsole\\Day2DemoConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\.NET\\Day2Demo\\Day2DemoConsole\\Day2DemoConsole.csproj",
+        "projectUniqueName": "D:\\.NET\\Day2Demo\\Day2DemoConsole\\Day2DemoConsole.csproj",
         "projectName": "Day2DemoConsole",
-        "projectPath": "d:\\.NET\\Day2Demo\\Day2DemoConsole\\Day2DemoConsole.csproj",
+        "projectPath": "D:\\.NET\\Day2Demo\\Day2DemoConsole\\Day2DemoConsole.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "d:\\.NET\\Day2Demo\\Day2DemoConsole\\obj\\",
+        "outputPath": "D:\\.NET\\Day2Demo\\Day2DemoConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

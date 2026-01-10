@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\9-1-26\\DelegatesAndEvents\\events_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02B43838-736D-410D-8806-53F5960E2445}|events_demo\\events_demo.csproj|d:\\.net\\9-1-26\\delegatesandevents\\events_demo\\events_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B43838-736D-410D-8806-53F5960E2445}|events_demo\\events_demo.csproj|solutionrelative:events_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\9-1-26\\DelegatesAndEvents\\events_demo\\events_demo\\Program.cs",
+              "RelativeDocumentMoniker": "events_demo\\Program.cs",
+              "ToolTip": "D:\\.NET\\9-1-26\\DelegatesAndEvents\\events_demo\\events_demo\\Program.cs",
+              "RelativeToolTip": "events_demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:43:19.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
