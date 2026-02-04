@@ -1,0 +1,14 @@
+D:\.NET-TopBrains\Q6LargestInteger\bin\Debug\net10.0\Q6LargestInteger.exe
+D:\.NET-TopBrains\Q6LargestInteger\bin\Debug\net10.0\Q6LargestInteger.deps.json
+D:\.NET-TopBrains\Q6LargestInteger\bin\Debug\net10.0\Q6LargestInteger.runtimeconfig.json
+D:\.NET-TopBrains\Q6LargestInteger\bin\Debug\net10.0\Q6LargestInteger.dll
+D:\.NET-TopBrains\Q6LargestInteger\bin\Debug\net10.0\Q6LargestInteger.pdb
+D:\.NET-TopBrains\Q6LargestInteger\obj\Debug\net10.0\Q6LargestInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-TopBrains\Q6LargestInteger\obj\Debug\net10.0\Q6LargestInteger.AssemblyInfoInputs.cache
+D:\.NET-TopBrains\Q6LargestInteger\obj\Debug\net10.0\Q6LargestInteger.AssemblyInfo.cs
+D:\.NET-TopBrains\Q6LargestInteger\obj\Debug\net10.0\Q6LargestInteger.csproj.CoreCompileInputs.cache
+D:\.NET-TopBrains\Q6LargestInteger\obj\Debug\net10.0\Q6LargestInteger.dll
+D:\.NET-TopBrains\Q6LargestInteger\obj\Debug\net10.0\refint\Q6LargestInteger.dll
+D:\.NET-TopBrains\Q6LargestInteger\obj\Debug\net10.0\Q6LargestInteger.pdb
+D:\.NET-TopBrains\Q6LargestInteger\obj\Debug\net10.0\Q6LargestInteger.genruntimeconfig.cache
+D:\.NET-TopBrains\Q6LargestInteger\obj\Debug\net10.0\ref\Q6LargestInteger.dll

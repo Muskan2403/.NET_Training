@@ -1,0 +1,15 @@
+D:\.NET-TopBrains\Q19Conversion\bin\Debug\net10.0\Q19Conversion.exe
+D:\.NET-TopBrains\Q19Conversion\bin\Debug\net10.0\Q19Conversion.deps.json
+D:\.NET-TopBrains\Q19Conversion\bin\Debug\net10.0\Q19Conversion.runtimeconfig.json
+D:\.NET-TopBrains\Q19Conversion\bin\Debug\net10.0\Q19Conversion.dll
+D:\.NET-TopBrains\Q19Conversion\bin\Debug\net10.0\Q19Conversion.pdb
+D:\.NET-TopBrains\Q19Conversion\obj\Debug\net10.0\Q19Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-TopBrains\Q19Conversion\obj\Debug\net10.0\Q19Conversion.AssemblyInfoInputs.cache
+D:\.NET-TopBrains\Q19Conversion\obj\Debug\net10.0\Q19Conversion.AssemblyInfo.cs
+D:\.NET-TopBrains\Q19Conversion\obj\Debug\net10.0\Q19Conversion.csproj.CoreCompileInputs.cache
+D:\.NET-TopBrains\Q19Conversion\obj\Debug\net10.0\Q19Conversion.sourcelink.json
+D:\.NET-TopBrains\Q19Conversion\obj\Debug\net10.0\Q19Conversion.dll
+D:\.NET-TopBrains\Q19Conversion\obj\Debug\net10.0\refint\Q19Conversion.dll
+D:\.NET-TopBrains\Q19Conversion\obj\Debug\net10.0\Q19Conversion.pdb
+D:\.NET-TopBrains\Q19Conversion\obj\Debug\net10.0\Q19Conversion.genruntimeconfig.cache
+D:\.NET-TopBrains\Q19Conversion\obj\Debug\net10.0\ref\Q19Conversion.dll

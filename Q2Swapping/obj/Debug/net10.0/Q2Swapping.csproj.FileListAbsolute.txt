@@ -1,0 +1,15 @@
+D:\.NET-TopBrains\Q2Swapping\bin\Debug\net10.0\Q2Swapping.exe
+D:\.NET-TopBrains\Q2Swapping\bin\Debug\net10.0\Q2Swapping.deps.json
+D:\.NET-TopBrains\Q2Swapping\bin\Debug\net10.0\Q2Swapping.runtimeconfig.json
+D:\.NET-TopBrains\Q2Swapping\bin\Debug\net10.0\Q2Swapping.dll
+D:\.NET-TopBrains\Q2Swapping\bin\Debug\net10.0\Q2Swapping.pdb
+D:\.NET-TopBrains\Q2Swapping\obj\Debug\net10.0\Q2Swapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-TopBrains\Q2Swapping\obj\Debug\net10.0\Q2Swapping.AssemblyInfoInputs.cache
+D:\.NET-TopBrains\Q2Swapping\obj\Debug\net10.0\Q2Swapping.AssemblyInfo.cs
+D:\.NET-TopBrains\Q2Swapping\obj\Debug\net10.0\Q2Swapping.csproj.CoreCompileInputs.cache
+D:\.NET-TopBrains\Q2Swapping\obj\Debug\net10.0\Q2Swapping.sourcelink.json
+D:\.NET-TopBrains\Q2Swapping\obj\Debug\net10.0\Q2Swapping.dll
+D:\.NET-TopBrains\Q2Swapping\obj\Debug\net10.0\refint\Q2Swapping.dll
+D:\.NET-TopBrains\Q2Swapping\obj\Debug\net10.0\Q2Swapping.pdb
+D:\.NET-TopBrains\Q2Swapping\obj\Debug\net10.0\Q2Swapping.genruntimeconfig.cache
+D:\.NET-TopBrains\Q2Swapping\obj\Debug\net10.0\ref\Q2Swapping.dll

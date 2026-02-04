@@ -1,0 +1,15 @@
+D:\.NET-TopBrains\Q7DisplayHeight\bin\Debug\net10.0\Q7DisplayHeight.exe
+D:\.NET-TopBrains\Q7DisplayHeight\bin\Debug\net10.0\Q7DisplayHeight.deps.json
+D:\.NET-TopBrains\Q7DisplayHeight\bin\Debug\net10.0\Q7DisplayHeight.runtimeconfig.json
+D:\.NET-TopBrains\Q7DisplayHeight\bin\Debug\net10.0\Q7DisplayHeight.dll
+D:\.NET-TopBrains\Q7DisplayHeight\bin\Debug\net10.0\Q7DisplayHeight.pdb
+D:\.NET-TopBrains\Q7DisplayHeight\obj\Debug\net10.0\Q7DisplayHeight.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-TopBrains\Q7DisplayHeight\obj\Debug\net10.0\Q7DisplayHeight.AssemblyInfoInputs.cache
+D:\.NET-TopBrains\Q7DisplayHeight\obj\Debug\net10.0\Q7DisplayHeight.AssemblyInfo.cs
+D:\.NET-TopBrains\Q7DisplayHeight\obj\Debug\net10.0\Q7DisplayHeight.csproj.CoreCompileInputs.cache
+D:\.NET-TopBrains\Q7DisplayHeight\obj\Debug\net10.0\Q7DisplayHeight.sourcelink.json
+D:\.NET-TopBrains\Q7DisplayHeight\obj\Debug\net10.0\Q7DisplayHeight.dll
+D:\.NET-TopBrains\Q7DisplayHeight\obj\Debug\net10.0\refint\Q7DisplayHeight.dll
+D:\.NET-TopBrains\Q7DisplayHeight\obj\Debug\net10.0\Q7DisplayHeight.pdb
+D:\.NET-TopBrains\Q7DisplayHeight\obj\Debug\net10.0\Q7DisplayHeight.genruntimeconfig.cache
+D:\.NET-TopBrains\Q7DisplayHeight\obj\Debug\net10.0\ref\Q7DisplayHeight.dll
