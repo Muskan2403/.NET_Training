@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Q6LargestInteger/1.0.0": {
+        "runtime": {
+          "Q6LargestInteger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q6LargestInteger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

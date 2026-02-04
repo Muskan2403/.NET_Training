@@ -1,0 +1,15 @@
+D:\.NET-TopBrains\Q3Multiplication\bin\Debug\net10.0\Q3Multiplication.exe
+D:\.NET-TopBrains\Q3Multiplication\bin\Debug\net10.0\Q3Multiplication.deps.json
+D:\.NET-TopBrains\Q3Multiplication\bin\Debug\net10.0\Q3Multiplication.runtimeconfig.json
+D:\.NET-TopBrains\Q3Multiplication\bin\Debug\net10.0\Q3Multiplication.dll
+D:\.NET-TopBrains\Q3Multiplication\bin\Debug\net10.0\Q3Multiplication.pdb
+D:\.NET-TopBrains\Q3Multiplication\obj\Debug\net10.0\Q3Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-TopBrains\Q3Multiplication\obj\Debug\net10.0\Q3Multiplication.AssemblyInfoInputs.cache
+D:\.NET-TopBrains\Q3Multiplication\obj\Debug\net10.0\Q3Multiplication.AssemblyInfo.cs
+D:\.NET-TopBrains\Q3Multiplication\obj\Debug\net10.0\Q3Multiplication.csproj.CoreCompileInputs.cache
+D:\.NET-TopBrains\Q3Multiplication\obj\Debug\net10.0\Q3Multiplication.sourcelink.json
+D:\.NET-TopBrains\Q3Multiplication\obj\Debug\net10.0\Q3Multiplication.dll
+D:\.NET-TopBrains\Q3Multiplication\obj\Debug\net10.0\refint\Q3Multiplication.dll
+D:\.NET-TopBrains\Q3Multiplication\obj\Debug\net10.0\Q3Multiplication.pdb
+D:\.NET-TopBrains\Q3Multiplication\obj\Debug\net10.0\Q3Multiplication.genruntimeconfig.cache
+D:\.NET-TopBrains\Q3Multiplication\obj\Debug\net10.0\ref\Q3Multiplication.dll

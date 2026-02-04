@@ -1,0 +1,15 @@
+D:\.NET-TopBrains\Q25MidpointRounding\bin\Debug\net10.0\Q25MidpointRounding.exe
+D:\.NET-TopBrains\Q25MidpointRounding\bin\Debug\net10.0\Q25MidpointRounding.deps.json
+D:\.NET-TopBrains\Q25MidpointRounding\bin\Debug\net10.0\Q25MidpointRounding.runtimeconfig.json
+D:\.NET-TopBrains\Q25MidpointRounding\bin\Debug\net10.0\Q25MidpointRounding.dll
+D:\.NET-TopBrains\Q25MidpointRounding\bin\Debug\net10.0\Q25MidpointRounding.pdb
+D:\.NET-TopBrains\Q25MidpointRounding\obj\Debug\net10.0\Q25MidpointRounding.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-TopBrains\Q25MidpointRounding\obj\Debug\net10.0\Q25MidpointRounding.AssemblyInfoInputs.cache
+D:\.NET-TopBrains\Q25MidpointRounding\obj\Debug\net10.0\Q25MidpointRounding.AssemblyInfo.cs
+D:\.NET-TopBrains\Q25MidpointRounding\obj\Debug\net10.0\Q25MidpointRounding.csproj.CoreCompileInputs.cache
+D:\.NET-TopBrains\Q25MidpointRounding\obj\Debug\net10.0\Q25MidpointRounding.sourcelink.json
+D:\.NET-TopBrains\Q25MidpointRounding\obj\Debug\net10.0\Q25MidpointRounding.dll
+D:\.NET-TopBrains\Q25MidpointRounding\obj\Debug\net10.0\refint\Q25MidpointRounding.dll
+D:\.NET-TopBrains\Q25MidpointRounding\obj\Debug\net10.0\Q25MidpointRounding.pdb
+D:\.NET-TopBrains\Q25MidpointRounding\obj\Debug\net10.0\Q25MidpointRounding.genruntimeconfig.cache
+D:\.NET-TopBrains\Q25MidpointRounding\obj\Debug\net10.0\ref\Q25MidpointRounding.dll
