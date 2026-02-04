@@ -1,0 +1,15 @@
+D:\.NET\13-01-26\Ledger\bin\Debug\net10.0\Khata.exe
+D:\.NET\13-01-26\Ledger\bin\Debug\net10.0\Khata.deps.json
+D:\.NET\13-01-26\Ledger\bin\Debug\net10.0\Khata.runtimeconfig.json
+D:\.NET\13-01-26\Ledger\bin\Debug\net10.0\Khata.dll
+D:\.NET\13-01-26\Ledger\bin\Debug\net10.0\Khata.pdb
+D:\.NET\13-01-26\Ledger\obj\Debug\net10.0\Khata.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\13-01-26\Ledger\obj\Debug\net10.0\Khata.AssemblyInfoInputs.cache
+D:\.NET\13-01-26\Ledger\obj\Debug\net10.0\Khata.AssemblyInfo.cs
+D:\.NET\13-01-26\Ledger\obj\Debug\net10.0\Khata.csproj.CoreCompileInputs.cache
+D:\.NET\13-01-26\Ledger\obj\Debug\net10.0\Khata.sourcelink.json
+D:\.NET\13-01-26\Ledger\obj\Debug\net10.0\Khata.dll
+D:\.NET\13-01-26\Ledger\obj\Debug\net10.0\refint\Khata.dll
+D:\.NET\13-01-26\Ledger\obj\Debug\net10.0\Khata.pdb
+D:\.NET\13-01-26\Ledger\obj\Debug\net10.0\Khata.genruntimeconfig.cache
+D:\.NET\13-01-26\Ledger\obj\Debug\net10.0\ref\Khata.dll

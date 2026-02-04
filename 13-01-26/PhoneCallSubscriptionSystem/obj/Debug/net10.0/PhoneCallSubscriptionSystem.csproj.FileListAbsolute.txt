@@ -1,0 +1,15 @@
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\bin\Debug\net10.0\PhoneCallSubscriptionSystem.exe
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\bin\Debug\net10.0\PhoneCallSubscriptionSystem.deps.json
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\bin\Debug\net10.0\PhoneCallSubscriptionSystem.runtimeconfig.json
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\bin\Debug\net10.0\PhoneCallSubscriptionSystem.dll
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\bin\Debug\net10.0\PhoneCallSubscriptionSystem.pdb
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.AssemblyInfoInputs.cache
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.AssemblyInfo.cs
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.csproj.CoreCompileInputs.cache
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.sourcelink.json
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.dll
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\obj\Debug\net10.0\refint\PhoneCallSubscriptionSystem.dll
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.pdb
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\obj\Debug\net10.0\PhoneCallSubscriptionSystem.genruntimeconfig.cache
+D:\.NET\13-01-26\PhoneCallSubscriptionSystem\obj\Debug\net10.0\ref\PhoneCallSubscriptionSystem.dll
