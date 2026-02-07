@@ -1,0 +1,15 @@
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.exe
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.deps.json
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.runtimeconfig.json
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.dll
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.pdb
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.AssemblyInfoInputs.cache
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.AssemblyInfo.cs
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.csproj.CoreCompileInputs.cache
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.sourcelink.json
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.dll
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\obj\Debug\net10.0\refint\MiniOrderSystem.dll
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.pdb
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.genruntimeconfig.cache
+D:\.NET\Assessment-07-02-26\Q25MiniOrderSystem\obj\Debug\net10.0\ref\MiniOrderSystem.dll
