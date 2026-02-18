@@ -1,0 +1,15 @@
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\bin\Debug\net10.0\PharmacyMedicineSystem.exe
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\bin\Debug\net10.0\PharmacyMedicineSystem.deps.json
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\bin\Debug\net10.0\PharmacyMedicineSystem.runtimeconfig.json
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\bin\Debug\net10.0\PharmacyMedicineSystem.dll
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\bin\Debug\net10.0\PharmacyMedicineSystem.pdb
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\obj\Debug\net10.0\PharmacyMedicineSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\obj\Debug\net10.0\PharmacyMedicineSystem.AssemblyInfoInputs.cache
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\obj\Debug\net10.0\PharmacyMedicineSystem.AssemblyInfo.cs
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\obj\Debug\net10.0\PharmacyMedicineSystem.csproj.CoreCompileInputs.cache
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\obj\Debug\net10.0\PharmacyMedicineSystem.sourcelink.json
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\obj\Debug\net10.0\PharmacyMedicineSystem.dll
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\obj\Debug\net10.0\refint\PharmacyMedicineSystem.dll
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\obj\Debug\net10.0\PharmacyMedicineSystem.pdb
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\obj\Debug\net10.0\PharmacyMedicineSystem.genruntimeconfig.cache
+D:\.NET\Practice-Assessment\SortedDictionary\PharmacyMedicineSystem\obj\Debug\net10.0\ref\PharmacyMedicineSystem.dll
