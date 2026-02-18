@@ -1,0 +1,15 @@
+D:\.NET\Practice-Assessment\Shipment-System\bin\Debug\net10.0\Shipment-System.exe
+D:\.NET\Practice-Assessment\Shipment-System\bin\Debug\net10.0\Shipment-System.deps.json
+D:\.NET\Practice-Assessment\Shipment-System\bin\Debug\net10.0\Shipment-System.runtimeconfig.json
+D:\.NET\Practice-Assessment\Shipment-System\bin\Debug\net10.0\Shipment-System.dll
+D:\.NET\Practice-Assessment\Shipment-System\bin\Debug\net10.0\Shipment-System.pdb
+D:\.NET\Practice-Assessment\Shipment-System\obj\Debug\net10.0\Shipment-System.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Practice-Assessment\Shipment-System\obj\Debug\net10.0\Shipment-System.AssemblyInfoInputs.cache
+D:\.NET\Practice-Assessment\Shipment-System\obj\Debug\net10.0\Shipment-System.AssemblyInfo.cs
+D:\.NET\Practice-Assessment\Shipment-System\obj\Debug\net10.0\Shipment-System.csproj.CoreCompileInputs.cache
+D:\.NET\Practice-Assessment\Shipment-System\obj\Debug\net10.0\Shipment-System.sourcelink.json
+D:\.NET\Practice-Assessment\Shipment-System\obj\Debug\net10.0\Shipment-System.dll
+D:\.NET\Practice-Assessment\Shipment-System\obj\Debug\net10.0\refint\Shipment-System.dll
+D:\.NET\Practice-Assessment\Shipment-System\obj\Debug\net10.0\Shipment-System.pdb
+D:\.NET\Practice-Assessment\Shipment-System\obj\Debug\net10.0\Shipment-System.genruntimeconfig.cache
+D:\.NET\Practice-Assessment\Shipment-System\obj\Debug\net10.0\ref\Shipment-System.dll
