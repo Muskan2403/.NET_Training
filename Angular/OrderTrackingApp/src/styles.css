@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+/* Color for 'Processing' (Status 1) */
+.bg-status-processing {
+  background-color: #ffc107; /* Warning yellow */
+  color: #212529; /* Dark text for contrast */
+}
+
+/* Color for 'Shipped' (Status 2 - Optional, add to TS if needed) */
+.bg-status-shipped {
+  background-color: #0dcaf0; /* Info cyan */
+    color: white;
+}
+
+/* Color for 'Delivered' (Status 3) */
+.bg-status-delivered {
+  background-color: #198754; /* Success green */
+  color: white;
+}
+
+/* Color for Errors/Unknown (Fallback) */
+.bg-status-unknown {
+  background-color: #adb5bd; /* Neutral grey */
+  color: white;
+}
